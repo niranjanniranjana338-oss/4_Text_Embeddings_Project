@@ -1,0 +1,16 @@
+sentence_id_1,sentence_id_2,sentence_1,sentence_2,cosine_similarity
+5,6,Text embeddings represent sentences as numerical vectors.,Sentence transformers create meaningful vector representations of text.,0.6858976483345032
+1,2,Artificial intelligence enables computers to perform tasks that usually require human intelligence.,Machine learning allows computers to learn patterns from data.,0.5964297652244568
+4,1,Natural language processing helps computers understand human language.,Artificial intelligence enables computers to perform tasks that usually require human intelligence.,0.5658059120178223
+2,3,Machine learning allows computers to learn patterns from data.,Deep learning is a branch of machine learning that uses neural networks.,0.5317472219467163
+10,2,Data cleaning improves the quality of machine learning datasets.,Machine learning allows computers to learn patterns from data.,0.530951738357544
+1,3,Artificial intelligence enables computers to perform tasks that usually require human intelligence.,Deep learning is a branch of machine learning that uses neural networks.,0.41880154609680176
+4,5,Natural language processing helps computers understand human language.,Text embeddings represent sentences as numerical vectors.,0.3882744312286377
+13,14,Renewable energy sources include solar power and wind power.,"Plants need sunlight, water, and nutrients to grow.",0.332134872674942
+15,14,The Earth revolves around the Sun once every year.,"Plants need sunlight, water, and nutrients to grow.",0.3121526539325714
+20,8,Cloud computing provides computing services over the internet.,Python is widely used for data science and artificial intelligence.,0.3084077835083008
+6,7,Sentence transformers create meaningful vector representations of text.,Cosine similarity measures how similar two vectors are in direction.,0.2830968499183655
+19,8,"Cybersecurity protects computers, networks, and data from digital attacks.",Python is widely used for data science and artificial intelligence.,0.2734595537185669
+18,8,Online shopping allows customers to purchase products on the internet.,Python is widely used for data science and artificial intelligence.,0.07907208055257797
+8,9,Python is widely used for data science and artificial intelligence.,A neural network contains connected layers of artificial neurons.,0.07268771529197693
+17,13,Football is a team sport played by two teams.,Renewable energy sources include solar power and wind power.,-0.060677770525217056

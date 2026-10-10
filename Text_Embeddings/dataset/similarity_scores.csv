@@ -1,0 +1,191 @@
+sentence_id_1,sentence_id_2,sentence_1,sentence_2,cosine_similarity
+5,6,Text embeddings represent sentences as numerical vectors.,Sentence transformers create meaningful vector representations of text.,0.6858976483345032
+1,2,Artificial intelligence enables computers to perform tasks that usually require human intelligence.,Machine learning allows computers to learn patterns from data.,0.5964297652244568
+1,4,Artificial intelligence enables computers to perform tasks that usually require human intelligence.,Natural language processing helps computers understand human language.,0.5658059120178223
+2,4,Machine learning allows computers to learn patterns from data.,Natural language processing helps computers understand human language.,0.5348936915397644
+2,3,Machine learning allows computers to learn patterns from data.,Deep learning is a branch of machine learning that uses neural networks.,0.5317472219467163
+2,10,Machine learning allows computers to learn patterns from data.,Data cleaning improves the quality of machine learning datasets.,0.530951738357544
+8,11,Python is widely used for data science and artificial intelligence.,Students use notebooks to run Python code and record observations.,0.5258647799491882
+3,9,Deep learning is a branch of machine learning that uses neural networks.,A neural network contains connected layers of artificial neurons.,0.490479975938797
+4,6,Natural language processing helps computers understand human language.,Sentence transformers create meaningful vector representations of text.,0.47087347507476807
+1,8,Artificial intelligence enables computers to perform tasks that usually require human intelligence.,Python is widely used for data science and artificial intelligence.,0.44208186864852905
+1,9,Artificial intelligence enables computers to perform tasks that usually require human intelligence.,A neural network contains connected layers of artificial neurons.,0.4294043183326721
+1,3,Artificial intelligence enables computers to perform tasks that usually require human intelligence.,Deep learning is a branch of machine learning that uses neural networks.,0.41880154609680176
+2,8,Machine learning allows computers to learn patterns from data.,Python is widely used for data science and artificial intelligence.,0.4122101068496704
+4,5,Natural language processing helps computers understand human language.,Text embeddings represent sentences as numerical vectors.,0.3882744312286377
+2,12,Machine learning allows computers to learn patterns from data.,A database stores information in an organized way.,0.3781217932701111
+1,20,Artificial intelligence enables computers to perform tasks that usually require human intelligence.,Cloud computing provides computing services over the internet.,0.3647679388523102
+1,19,Artificial intelligence enables computers to perform tasks that usually require human intelligence.,"Cybersecurity protects computers, networks, and data from digital attacks.",0.3509572148323059
+4,8,Natural language processing helps computers understand human language.,Python is widely used for data science and artificial intelligence.,0.34794819355010986
+18,20,Online shopping allows customers to purchase products on the internet.,Cloud computing provides computing services over the internet.,0.34645572304725647
+19,20,"Cybersecurity protects computers, networks, and data from digital attacks.",Cloud computing provides computing services over the internet.,0.34026363492012024
+2,9,Machine learning allows computers to learn patterns from data.,A neural network contains connected layers of artificial neurons.,0.333463579416275
+3,4,Deep learning is a branch of machine learning that uses neural networks.,Natural language processing helps computers understand human language.,0.3325731158256531
+13,14,Renewable energy sources include solar power and wind power.,"Plants need sunlight, water, and nutrients to grow.",0.332134872674942
+11,12,Students use notebooks to run Python code and record observations.,A database stores information in an organized way.,0.317157506942749
+14,15,"Plants need sunlight, water, and nutrients to grow.",The Earth revolves around the Sun once every year.,0.3121526539325714
+8,20,Python is widely used for data science and artificial intelligence.,Cloud computing provides computing services over the internet.,0.3084077835083008
+2,19,Machine learning allows computers to learn patterns from data.,"Cybersecurity protects computers, networks, and data from digital attacks.",0.30785369873046875
+5,7,Text embeddings represent sentences as numerical vectors.,Cosine similarity measures how similar two vectors are in direction.,0.2992316484451294
+3,10,Deep learning is a branch of machine learning that uses neural networks.,Data cleaning improves the quality of machine learning datasets.,0.29725730419158936
+3,8,Deep learning is a branch of machine learning that uses neural networks.,Python is widely used for data science and artificial intelligence.,0.29309573769569397
+2,20,Machine learning allows computers to learn patterns from data.,Cloud computing provides computing services over the internet.,0.29064199328422546
+8,10,Python is widely used for data science and artificial intelligence.,Data cleaning improves the quality of machine learning datasets.,0.28688207268714905
+2,11,Machine learning allows computers to learn patterns from data.,Students use notebooks to run Python code and record observations.,0.2842666506767273
+6,7,Sentence transformers create meaningful vector representations of text.,Cosine similarity measures how similar two vectors are in direction.,0.2830968499183655
+10,12,Data cleaning improves the quality of machine learning datasets.,A database stores information in an organized way.,0.2812885642051697
+5,9,Text embeddings represent sentences as numerical vectors.,A neural network contains connected layers of artificial neurons.,0.27450132369995117
+8,19,Python is widely used for data science and artificial intelligence.,"Cybersecurity protects computers, networks, and data from digital attacks.",0.2734595537185669
+2,6,Machine learning allows computers to learn patterns from data.,Sentence transformers create meaningful vector representations of text.,0.26718607544898987
+4,11,Natural language processing helps computers understand human language.,Students use notebooks to run Python code and record observations.,0.2656095027923584
+4,20,Natural language processing helps computers understand human language.,Cloud computing provides computing services over the internet.,0.26010408997535706
+1,10,Artificial intelligence enables computers to perform tasks that usually require human intelligence.,Data cleaning improves the quality of machine learning datasets.,0.2598961591720581
+4,12,Natural language processing helps computers understand human language.,A database stores information in an organized way.,0.2593235373497009
+4,10,Natural language processing helps computers understand human language.,Data cleaning improves the quality of machine learning datasets.,0.25639045238494873
+9,12,A neural network contains connected layers of artificial neurons.,A database stores information in an organized way.,0.24712245166301727
+3,5,Deep learning is a branch of machine learning that uses neural networks.,Text embeddings represent sentences as numerical vectors.,0.24574676156044006
+18,19,Online shopping allows customers to purchase products on the internet.,"Cybersecurity protects computers, networks, and data from digital attacks.",0.2417648732662201
+3,19,Deep learning is a branch of machine learning that uses neural networks.,"Cybersecurity protects computers, networks, and data from digital attacks.",0.24147693812847137
+1,12,Artificial intelligence enables computers to perform tasks that usually require human intelligence.,A database stores information in an organized way.,0.23932044208049774
+2,5,Machine learning allows computers to learn patterns from data.,Text embeddings represent sentences as numerical vectors.,0.23641148209571838
+3,6,Deep learning is a branch of machine learning that uses neural networks.,Sentence transformers create meaningful vector representations of text.,0.2345796376466751
+10,11,Data cleaning improves the quality of machine learning datasets.,Students use notebooks to run Python code and record observations.,0.22657376527786255
+14,16,"Plants need sunlight, water, and nutrients to grow.","A healthy diet includes fruits, vegetables, and whole grains.",0.22601521015167236
+1,6,Artificial intelligence enables computers to perform tasks that usually require human intelligence.,Sentence transformers create meaningful vector representations of text.,0.2244819551706314
+1,5,Artificial intelligence enables computers to perform tasks that usually require human intelligence.,Text embeddings represent sentences as numerical vectors.,0.22274069488048553
+1,11,Artificial intelligence enables computers to perform tasks that usually require human intelligence.,Students use notebooks to run Python code and record observations.,0.22096660733222961
+13,15,Renewable energy sources include solar power and wind power.,The Earth revolves around the Sun once every year.,0.21975894272327423
+4,19,Natural language processing helps computers understand human language.,"Cybersecurity protects computers, networks, and data from digital attacks.",0.2167428731918335
+3,20,Deep learning is a branch of machine learning that uses neural networks.,Cloud computing provides computing services over the internet.,0.2110036313533783
+12,18,A database stores information in an organized way.,Online shopping allows customers to purchase products on the internet.,0.21053004264831543
+13,20,Renewable energy sources include solar power and wind power.,Cloud computing provides computing services over the internet.,0.2095451056957245
+4,9,Natural language processing helps computers understand human language.,A neural network contains connected layers of artificial neurons.,0.2029489278793335
+8,12,Python is widely used for data science and artificial intelligence.,A database stores information in an organized way.,0.19806654751300812
+9,19,A neural network contains connected layers of artificial neurons.,"Cybersecurity protects computers, networks, and data from digital attacks.",0.1902739405632019
+6,9,Sentence transformers create meaningful vector representations of text.,A neural network contains connected layers of artificial neurons.,0.18497154116630554
+3,12,Deep learning is a branch of machine learning that uses neural networks.,A database stores information in an organized way.,0.18447527289390564
+2,7,Machine learning allows computers to learn patterns from data.,Cosine similarity measures how similar two vectors are in direction.,0.18001790344715118
+13,16,Renewable energy sources include solar power and wind power.,"A healthy diet includes fruits, vegetables, and whole grains.",0.1773577779531479
+4,18,Natural language processing helps computers understand human language.,Online shopping allows customers to purchase products on the internet.,0.17702004313468933
+2,15,Machine learning allows computers to learn patterns from data.,The Earth revolves around the Sun once every year.,0.17632170021533966
+5,12,Text embeddings represent sentences as numerical vectors.,A database stores information in an organized way.,0.16751492023468018
+1,17,Artificial intelligence enables computers to perform tasks that usually require human intelligence.,Football is a team sport played by two teams.,0.16577178239822388
+6,12,Sentence transformers create meaningful vector representations of text.,A database stores information in an organized way.,0.16571453213691711
+15,20,The Earth revolves around the Sun once every year.,Cloud computing provides computing services over the internet.,0.16190873086452484
+6,10,Sentence transformers create meaningful vector representations of text.,Data cleaning improves the quality of machine learning datasets.,0.16118086874485016
+10,19,Data cleaning improves the quality of machine learning datasets.,"Cybersecurity protects computers, networks, and data from digital attacks.",0.15839055180549622
+2,18,Machine learning allows computers to learn patterns from data.,Online shopping allows customers to purchase products on the internet.,0.157306969165802
+12,20,A database stores information in an organized way.,Cloud computing provides computing services over the internet.,0.15677624940872192
+11,20,Students use notebooks to run Python code and record observations.,Cloud computing provides computing services over the internet.,0.15406808257102966
+4,7,Natural language processing helps computers understand human language.,Cosine similarity measures how similar two vectors are in direction.,0.15114684402942657
+6,13,Sentence transformers create meaningful vector representations of text.,Renewable energy sources include solar power and wind power.,0.15073490142822266
+5,10,Text embeddings represent sentences as numerical vectors.,Data cleaning improves the quality of machine learning datasets.,0.14637595415115356
+1,18,Artificial intelligence enables computers to perform tasks that usually require human intelligence.,Online shopping allows customers to purchase products on the internet.,0.14355918765068054
+1,15,Artificial intelligence enables computers to perform tasks that usually require human intelligence.,The Earth revolves around the Sun once every year.,0.14338530600070953
+3,13,Deep learning is a branch of machine learning that uses neural networks.,Renewable energy sources include solar power and wind power.,0.14154614508152008
+3,11,Deep learning is a branch of machine learning that uses neural networks.,Students use notebooks to run Python code and record observations.,0.13993553817272186
+9,10,A neural network contains connected layers of artificial neurons.,Data cleaning improves the quality of machine learning datasets.,0.13415440917015076
+5,11,Text embeddings represent sentences as numerical vectors.,Students use notebooks to run Python code and record observations.,0.12460041046142578
+10,20,Data cleaning improves the quality of machine learning datasets.,Cloud computing provides computing services over the internet.,0.12248650193214417
+11,19,Students use notebooks to run Python code and record observations.,"Cybersecurity protects computers, networks, and data from digital attacks.",0.11898228526115417
+8,17,Python is widely used for data science and artificial intelligence.,Football is a team sport played by two teams.,0.11837387084960938
+11,18,Students use notebooks to run Python code and record observations.,Online shopping allows customers to purchase products on the internet.,0.11572025716304779
+15,16,The Earth revolves around the Sun once every year.,"A healthy diet includes fruits, vegetables, and whole grains.",0.11138869822025299
+12,19,A database stores information in an organized way.,"Cybersecurity protects computers, networks, and data from digital attacks.",0.11052975058555603
+8,15,Python is widely used for data science and artificial intelligence.,The Earth revolves around the Sun once every year.,0.10728082805871964
+2,17,Machine learning allows computers to learn patterns from data.,Football is a team sport played by two teams.,0.10726490616798401
+9,20,A neural network contains connected layers of artificial neurons.,Cloud computing provides computing services over the internet.,0.10506069660186768
+7,10,Cosine similarity measures how similar two vectors are in direction.,Data cleaning improves the quality of machine learning datasets.,0.10300180315971375
+13,19,Renewable energy sources include solar power and wind power.,"Cybersecurity protects computers, networks, and data from digital attacks.",0.10081145167350769
+1,14,Artificial intelligence enables computers to perform tasks that usually require human intelligence.,"Plants need sunlight, water, and nutrients to grow.",0.10069456696510315
+1,7,Artificial intelligence enables computers to perform tasks that usually require human intelligence.,Cosine similarity measures how similar two vectors are in direction.,0.09997070580720901
+12,15,A database stores information in an organized way.,The Earth revolves around the Sun once every year.,0.09966655820608139
+14,20,"Plants need sunlight, water, and nutrients to grow.",Cloud computing provides computing services over the internet.,0.09619391709566116
+2,13,Machine learning allows computers to learn patterns from data.,Renewable energy sources include solar power and wind power.,0.09540936350822449
+5,8,Text embeddings represent sentences as numerical vectors.,Python is widely used for data science and artificial intelligence.,0.09351082146167755
+4,15,Natural language processing helps computers understand human language.,The Earth revolves around the Sun once every year.,0.09127400815486908
+4,13,Natural language processing helps computers understand human language.,Renewable energy sources include solar power and wind power.,0.09065420925617218
+5,13,Text embeddings represent sentences as numerical vectors.,Renewable energy sources include solar power and wind power.,0.08919528126716614
+5,18,Text embeddings represent sentences as numerical vectors.,Online shopping allows customers to purchase products on the internet.,0.08892768621444702
+6,8,Sentence transformers create meaningful vector representations of text.,Python is widely used for data science and artificial intelligence.,0.08891699463129044
+6,11,Sentence transformers create meaningful vector representations of text.,Students use notebooks to run Python code and record observations.,0.0885854959487915
+3,15,Deep learning is a branch of machine learning that uses neural networks.,The Earth revolves around the Sun once every year.,0.08824655413627625
+7,9,Cosine similarity measures how similar two vectors are in direction.,A neural network contains connected layers of artificial neurons.,0.08580297976732254
+3,18,Deep learning is a branch of machine learning that uses neural networks.,Online shopping allows customers to purchase products on the internet.,0.0856165736913681
+9,15,A neural network contains connected layers of artificial neurons.,The Earth revolves around the Sun once every year.,0.08346531540155411
+1,13,Artificial intelligence enables computers to perform tasks that usually require human intelligence.,Renewable energy sources include solar power and wind power.,0.08138370513916016
+4,14,Natural language processing helps computers understand human language.,"Plants need sunlight, water, and nutrients to grow.",0.08031868189573288
+8,18,Python is widely used for data science and artificial intelligence.,Online shopping allows customers to purchase products on the internet.,0.07907208055257797
+10,16,Data cleaning improves the quality of machine learning datasets.,"A healthy diet includes fruits, vegetables, and whole grains.",0.0761459544301033
+7,12,Cosine similarity measures how similar two vectors are in direction.,A database stores information in an organized way.,0.07611133903265
+7,18,Cosine similarity measures how similar two vectors are in direction.,Online shopping allows customers to purchase products on the internet.,0.07559403777122498
+12,14,A database stores information in an organized way.,"Plants need sunlight, water, and nutrients to grow.",0.07530676573514938
+4,17,Natural language processing helps computers understand human language.,Football is a team sport played by two teams.,0.07417143881320953
+5,19,Text embeddings represent sentences as numerical vectors.,"Cybersecurity protects computers, networks, and data from digital attacks.",0.0741482675075531
+8,9,Python is widely used for data science and artificial intelligence.,A neural network contains connected layers of artificial neurons.,0.07268771529197693
+2,14,Machine learning allows computers to learn patterns from data.,"Plants need sunlight, water, and nutrients to grow.",0.07187031954526901
+15,18,The Earth revolves around the Sun once every year.,Online shopping allows customers to purchase products on the internet.,0.06913743913173676
+6,19,Sentence transformers create meaningful vector representations of text.,"Cybersecurity protects computers, networks, and data from digital attacks.",0.06649495661258698
+11,14,Students use notebooks to run Python code and record observations.,"Plants need sunlight, water, and nutrients to grow.",0.06576928496360779
+10,15,Data cleaning improves the quality of machine learning datasets.,The Earth revolves around the Sun once every year.,0.06130795180797577
+6,18,Sentence transformers create meaningful vector representations of text.,Online shopping allows customers to purchase products on the internet.,0.06062823534011841
+7,13,Cosine similarity measures how similar two vectors are in direction.,Renewable energy sources include solar power and wind power.,0.06032561510801315
+9,11,A neural network contains connected layers of artificial neurons.,Students use notebooks to run Python code and record observations.,0.05960626155138016
+6,16,Sentence transformers create meaningful vector representations of text.,"A healthy diet includes fruits, vegetables, and whole grains.",0.056999288499355316
+3,7,Deep learning is a branch of machine learning that uses neural networks.,Cosine similarity measures how similar two vectors are in direction.,0.05559880658984184
+6,15,Sentence transformers create meaningful vector representations of text.,The Earth revolves around the Sun once every year.,0.05525531619787216
+15,17,The Earth revolves around the Sun once every year.,Football is a team sport played by two teams.,0.05229105055332184
+13,18,Renewable energy sources include solar power and wind power.,Online shopping allows customers to purchase products on the internet.,0.05211625248193741
+7,19,Cosine similarity measures how similar two vectors are in direction.,"Cybersecurity protects computers, networks, and data from digital attacks.",0.052080295979976654
+17,20,Football is a team sport played by two teams.,Cloud computing provides computing services over the internet.,0.05126965045928955
+11,13,Students use notebooks to run Python code and record observations.,Renewable energy sources include solar power and wind power.,0.05019327998161316
+8,13,Python is widely used for data science and artificial intelligence.,Renewable energy sources include solar power and wind power.,0.04981309920549393
+12,17,A database stores information in an organized way.,Football is a team sport played by two teams.,0.04967992752790451
+3,17,Deep learning is a branch of machine learning that uses neural networks.,Football is a team sport played by two teams.,0.048112016171216965
+3,14,Deep learning is a branch of machine learning that uses neural networks.,"Plants need sunlight, water, and nutrients to grow.",0.04587686061859131
+10,14,Data cleaning improves the quality of machine learning datasets.,"Plants need sunlight, water, and nutrients to grow.",0.04420553892850876
+7,11,Cosine similarity measures how similar two vectors are in direction.,Students use notebooks to run Python code and record observations.,0.04177252948284149
+6,14,Sentence transformers create meaningful vector representations of text.,"Plants need sunlight, water, and nutrients to grow.",0.041313737630844116
+17,19,Football is a team sport played by two teams.,"Cybersecurity protects computers, networks, and data from digital attacks.",0.03356262668967247
+9,17,A neural network contains connected layers of artificial neurons.,Football is a team sport played by two teams.,0.03087538108229637
+5,15,Text embeddings represent sentences as numerical vectors.,The Earth revolves around the Sun once every year.,0.03064480423927307
+11,15,Students use notebooks to run Python code and record observations.,The Earth revolves around the Sun once every year.,0.02793259732425213
+9,13,A neural network contains connected layers of artificial neurons.,Renewable energy sources include solar power and wind power.,0.027913270518183708
+16,19,"A healthy diet includes fruits, vegetables, and whole grains.","Cybersecurity protects computers, networks, and data from digital attacks.",0.025057386606931686
+5,20,Text embeddings represent sentences as numerical vectors.,Cloud computing provides computing services over the internet.,0.02496062032878399
+4,16,Natural language processing helps computers understand human language.,"A healthy diet includes fruits, vegetables, and whole grains.",0.024713028222322464
+7,15,Cosine similarity measures how similar two vectors are in direction.,The Earth revolves around the Sun once every year.,0.023854175582528114
+14,18,"Plants need sunlight, water, and nutrients to grow.",Online shopping allows customers to purchase products on the internet.,0.02069273218512535
+8,14,Python is widely used for data science and artificial intelligence.,"Plants need sunlight, water, and nutrients to grow.",0.020644450560212135
+10,13,Data cleaning improves the quality of machine learning datasets.,Renewable energy sources include solar power and wind power.,0.014874856919050217
+3,16,Deep learning is a branch of machine learning that uses neural networks.,"A healthy diet includes fruits, vegetables, and whole grains.",0.014660265296697617
+9,14,A neural network contains connected layers of artificial neurons.,"Plants need sunlight, water, and nutrients to grow.",0.01457674615085125
+10,18,Data cleaning improves the quality of machine learning datasets.,Online shopping allows customers to purchase products on the internet.,0.008937051519751549
+7,17,Cosine similarity measures how similar two vectors are in direction.,Football is a team sport played by two teams.,0.007152254693210125
+9,18,A neural network contains connected layers of artificial neurons.,Online shopping allows customers to purchase products on the internet.,0.0063781049102544785
+11,17,Students use notebooks to run Python code and record observations.,Football is a team sport played by two teams.,0.005986526608467102
+7,8,Cosine similarity measures how similar two vectors are in direction.,Python is widely used for data science and artificial intelligence.,0.005872026085853577
+9,16,A neural network contains connected layers of artificial neurons.,"A healthy diet includes fruits, vegetables, and whole grains.",0.004644828848540783
+11,16,Students use notebooks to run Python code and record observations.,"A healthy diet includes fruits, vegetables, and whole grains.",0.0026321448385715485
+6,20,Sentence transformers create meaningful vector representations of text.,Cloud computing provides computing services over the internet.,0.0022194012999534607
+16,17,"A healthy diet includes fruits, vegetables, and whole grains.",Football is a team sport played by two teams.,0.0018640998750925064
+5,14,Text embeddings represent sentences as numerical vectors.,"Plants need sunlight, water, and nutrients to grow.",0.0015548821538686752
+7,20,Cosine similarity measures how similar two vectors are in direction.,Cloud computing provides computing services over the internet.,-0.0019145989790558815
+12,13,A database stores information in an organized way.,Renewable energy sources include solar power and wind power.,-0.0031400080770254135
+10,17,Data cleaning improves the quality of machine learning datasets.,Football is a team sport played by two teams.,-0.0036487095057964325
+7,16,Cosine similarity measures how similar two vectors are in direction.,"A healthy diet includes fruits, vegetables, and whole grains.",-0.009281570091843605
+5,17,Text embeddings represent sentences as numerical vectors.,Football is a team sport played by two teams.,-0.012785953469574451
+2,16,Machine learning allows computers to learn patterns from data.,"A healthy diet includes fruits, vegetables, and whole grains.",-0.01329367607831955
+16,18,"A healthy diet includes fruits, vegetables, and whole grains.",Online shopping allows customers to purchase products on the internet.,-0.015391720458865166
+6,17,Sentence transformers create meaningful vector representations of text.,Football is a team sport played by two teams.,-0.017342429608106613
+12,16,A database stores information in an organized way.,"A healthy diet includes fruits, vegetables, and whole grains.",-0.01748819649219513
+15,19,The Earth revolves around the Sun once every year.,"Cybersecurity protects computers, networks, and data from digital attacks.",-0.024690378457307816
+7,14,Cosine similarity measures how similar two vectors are in direction.,"Plants need sunlight, water, and nutrients to grow.",-0.028706610202789307
+8,16,Python is widely used for data science and artificial intelligence.,"A healthy diet includes fruits, vegetables, and whole grains.",-0.032863013446331024
+17,18,Football is a team sport played by two teams.,Online shopping allows customers to purchase products on the internet.,-0.034888673573732376
+5,16,Text embeddings represent sentences as numerical vectors.,"A healthy diet includes fruits, vegetables, and whole grains.",-0.046492137014865875
+1,16,Artificial intelligence enables computers to perform tasks that usually require human intelligence.,"A healthy diet includes fruits, vegetables, and whole grains.",-0.04662206023931503
+14,17,"Plants need sunlight, water, and nutrients to grow.",Football is a team sport played by two teams.,-0.04805788770318031
+16,20,"A healthy diet includes fruits, vegetables, and whole grains.",Cloud computing provides computing services over the internet.,-0.05052156373858452
+13,17,Renewable energy sources include solar power and wind power.,Football is a team sport played by two teams.,-0.060677770525217056
+14,19,"Plants need sunlight, water, and nutrients to grow.","Cybersecurity protects computers, networks, and data from digital attacks.",-0.08335565030574799
